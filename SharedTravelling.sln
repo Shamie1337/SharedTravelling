@@ -5,6 +5,10 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedTravelling", "SharedTravelling\SharedTravelling.csproj", "{62C5BDF5-AF9D-4A4C-A9A6-904F5EF27256}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedTravelling.Infrastructure", "SharedTravel.Infrastructure\SharedTravelling.Infrastructure.csproj", "{DCECFC39-D0A2-49CE-BEDB-24EE23BE12E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedTravelling.Core", "SharedTravelling.Core\SharedTravelling.Core.csproj", "{123FA3E6-1E37-4542-884D-8AC14217ACBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{62C5BDF5-AF9D-4A4C-A9A6-904F5EF27256}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62C5BDF5-AF9D-4A4C-A9A6-904F5EF27256}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62C5BDF5-AF9D-4A4C-A9A6-904F5EF27256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCECFC39-D0A2-49CE-BEDB-24EE23BE12E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCECFC39-D0A2-49CE-BEDB-24EE23BE12E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCECFC39-D0A2-49CE-BEDB-24EE23BE12E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCECFC39-D0A2-49CE-BEDB-24EE23BE12E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123FA3E6-1E37-4542-884D-8AC14217ACBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123FA3E6-1E37-4542-884D-8AC14217ACBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123FA3E6-1E37-4542-884D-8AC14217ACBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123FA3E6-1E37-4542-884D-8AC14217ACBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
